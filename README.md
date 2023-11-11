@@ -15,4 +15,19 @@ To check backtracking recursion click on this: [Backtracking recusion](https://g
   - Explore: Explore all possibilities associated with that decision.
   - Constraint: Check if the current combination of choices satisfies the problem constraints.
   - Backtrack: If the current combination does not satisfy the constraints, undo the last decision and try a different one.
-
+# Multiple Recursion 
+- Multiple recursion refers to a situation in which a function calls itself more than once during its execution. 
+- The function exhibits recursive behavior, and at each recursive step, it makes multiple calls to itself.
+- The best example of multiple recursion is fibonacci series
+- Here is sample code for fibonacci function
+  ```java
+        public static int fibonacci(int n) {
+        if (n == 0) {
+            return 0;
+        } else if (n == 1) {
+            return 1;
+        } else {
+            return fibonacci(n-1) + fibonacci(n-2);
+        }
+    }
+  ```
