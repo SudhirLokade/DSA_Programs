@@ -1,5 +1,9 @@
 # DSA_Programs on Recursion
 This programs are used to show the all recursion methods
+- Simple Recursion
+- Backtracking Recursion
+- Multiple Recursion
+- Revese array
 
 # Recursion
  To check simple recursion click on this: [Simple Recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Recursion.java)
