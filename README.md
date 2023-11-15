@@ -39,4 +39,7 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 # Reverse Array 
 - It reverse the given array
 - To check the reverse array click on this: [Reverse array](https://github.com/SudhirLokade/DSA_Programs/blob/main/Reverse_Array.java)
+
+# Subusequences Recursion 
+- It find the subse
   
