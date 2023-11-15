@@ -31,6 +31,7 @@ To check backtracking recursion click on this: [Backtracking recusion](https://g
         }
     }
   ```
+  - To check multiple recursion click on this: [Multiple Recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Multiple_Recursion.java)
 # Reverse Array 
 - It reverse the given array
 - To check the reverse array click on this: [Reverse array](https://github.com/SudhirLokade/DSA_Programs/blob/main/Reverse_Array.java)
