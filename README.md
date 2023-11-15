@@ -7,7 +7,7 @@ This programs are used to show the all recursion methods
  - Printed a name/number for n number of times
 
 # Recursion Backtracking
-To check backtracking recursion click on this: [Backtracking recusion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Recursion_Backtracking.java)
+To check backtracking recursion click on this: [Backtracking recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Recursion_Backtracking.java)
 - Printing numbers from n to 1 using backtracking
 - It approches the given task in the some different way like by changing base conditions
   # Backtracking
