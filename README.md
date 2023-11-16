@@ -41,8 +41,13 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 - To check the reverse array click on this: [Reverse array](https://github.com/SudhirLokade/DSA_Programs/blob/main/Reverse_Array.java)
 
 # Subusequences Recursion 
-- It prints all the possible subsequences
+- It prints all the possible subsequences of an array
    # What is subsequences
    - A contiguous/non-contiguous sequences,which follws the order
-- To check the sunsequences recursion click on this: [Subsequences Recursion}(
-  
+- To check the sunsequences recursion click on this: [Subsequences Recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Subsequence_Recursion.java)
+
+# Sum of Subsequences 
+- The sum of subsequences typically involves finding the sum of all possible combinations of elements from the array
+- It considers both contiguous and non-contiguous subsequences
+- To check the sum of subsequences click on this: [Sum of Subsequences](
+ 
