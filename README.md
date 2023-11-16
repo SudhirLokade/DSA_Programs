@@ -41,5 +41,8 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 - To check the reverse array click on this: [Reverse array](https://github.com/SudhirLokade/DSA_Programs/blob/main/Reverse_Array.java)
 
 # Subusequences Recursion 
-- It find the subse
+- It prints all the possible subsequences
+   # What is subsequences
+   - A contiguous/non-contiguous sequences,which follws the order
+- To check the sunsequences recursion click on this: [Subsequences Recursion}(
   
