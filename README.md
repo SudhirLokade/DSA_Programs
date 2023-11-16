@@ -3,7 +3,9 @@ This programs are used to show the all recursion methods
 - Simple Recursion
 - Backtracking Recursion
 - Multiple Recursion
-- Revese array
+- Reverse array
+-  Subsequences Recursion
+-  Sum of Subsequences
 
 # Recursion
  To check simple recursion click on this: [Simple Recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Recursion.java)
@@ -40,7 +42,7 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 - It reverse the given array
 - To check the reverse array click on this: [Reverse array](https://github.com/SudhirLokade/DSA_Programs/blob/main/Reverse_Array.java)
 
-# Subusequences Recursion 
+# Subsequences Recursion 
 - It prints all the possible subsequences of an array
    # What is subsequences
    - A contiguous/non-contiguous sequences,which follws the order
@@ -49,5 +51,6 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 # Sum of Subsequences 
 - The sum of subsequences typically involves finding the sum of all possible combinations of elements from the array
 - It considers both contiguous and non-contiguous subsequences
-- To check the sum of subsequences click on this: [Sum of Subsequences](
+- To check the sum of subsequences click on this: [Sum of Subsequences](https://github.com/SudhirLokade/DSA_Programs/blob/main/Sum_of_Subsequences.java)
+  
  
