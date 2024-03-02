@@ -60,6 +60,21 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 # Count Subsequnces 
 - It count the sunsequences that sum up to given number from the array
 - For example:- Array is [1,2,3,4,5] and sum is 10 then output will be 3.Because there aree 3 subsequneces that sum to 10
-- To check the count Subsequences click on this: [Count of Subsequences](
+    # Usage
+  - To use this code
+      1. Compile the  java file.
+         
+          `` javac count_Subsequences.java ``
+      3. Run the program
+- To check the count Subsequences click on this: [Count Subsequences](https://github.com/SudhirLokade/DSA_Recursion_Programs/blob/main/count_Subsequences.java)
+
+# Combination Sum 
+- This Java code generates all combinations of elements from a given array that sum up to a specified target.
+    # Usage
+  - To use this code:
+
+    1. Compile the Java file.
+    2. Run the compiled Java class.
+    3. Enter the range (number of elements in the array), target sum, and the array elements when prompted.
   
  
