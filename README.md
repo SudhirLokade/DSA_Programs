@@ -4,8 +4,12 @@ This programs are used to show the all recursion methods
 - Backtracking Recursion
 - Multiple Recursion
 - Reverse array
--  Subsequences Recursion
--  Sum of Subsequences
+- Subsequences Recursion
+- Sum of Subsequences
+- Count Subsequences
+- Pallindrome String
+- Combination Sum
+  
 
 # Recursion
  To check simple recursion click on this: [Simple Recursion](https://github.com/SudhirLokade/DSA_Programs/blob/main/Recursion.java)
@@ -52,5 +56,10 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
 - The sum of subsequences typically involves finding the sum of all possible combinations of elements from the array
 - It considers both contiguous and non-contiguous subsequences
 - To check the sum of subsequences click on this: [Sum of Subsequences](https://github.com/SudhirLokade/DSA_Programs/blob/main/Sum_of_Subsequences.java)
+
+# Count Subsequnces 
+- It count the sunsequences that sum up to given number from the array
+- For example:- Array is [1,2,3,4,5] and sum is 10 then output will be 3.Because there aree 3 subsequneces that sum to 10
+- To check the count Subsequences click on this: [Count of Subsequences](
   
  
