@@ -9,6 +9,7 @@ This programs are used to show the all recursion methods
 - Count Subsequences
 - Pallindrome String
 - Combination Sum
+- Fibonacci 
   
 
 # Recursion
@@ -63,9 +64,14 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
     # Usage
   - To use this code
       1. Compile the  java file.
+         ```sh
+         javac count_Subsequences.java
+         ```
          
-          `` javac count_Subsequences.java ``
-      3. Run the program
+      2. Run the program
+         ```sh
+         java count_Subsequences
+         ```  
 - To check the count Subsequences click on this: [Count Subsequences](https://github.com/SudhirLokade/DSA_Recursion_Programs/blob/main/count_Subsequences.java)
 
 # Combination Sum 
@@ -74,7 +80,62 @@ To check backtracking recursion click on this: [Backtracking recursion](https://
   - To use this code:
 
     1. Compile the Java file.
+       ```sh
+       javac CombinationSum.java
+       ```
     2. Run the compiled Java class.
-    3. Enter the range (number of elements in the array), target sum, and the array elements when prompted.
+       ```sh
+       java CombinationSum
+       ```
+    4. Enter the range (number of elements in the array), target sum, and the array elements when prompted.
+
+- To check the Combination sum click on this: [Combination Sum](https://github.com/SudhirLokade/DSA_Recursion_Programs/blob/main/CombinationSum.java)
+
+# Pallindrome String
+- This Java program allows you to determine whether a given string is a palindrome or not.
+- A palindrome is a word, phrase, number, or other sequence of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization)
+- The program utilizes a recursive approach to check whether the string is a palindrome
+    # Usage
+  - To use this code
+      1. Compile the java file
+         ```sh
+         javac Pallindrome_String.java
+         ```
+      2. Run the compiled file
+         ```sh
+         java Pallindrome_String
+         ```
+
+- To check the Pallindrome string click on this: [Pallindrome string](https://github.com/SudhirLokade/DSA_Recursion_Programs/blob/main/Pallindrome_String.java)
+
+# Fibonacci 
+- This Java program calculates the Fibonacci sequence up to a specified term using a recursive approach
+- The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1
+
+    # Usage
+  - To use this code
+      1. Compile the java file
+         ```sh
+         javac Fibonacci.java
+         ```
+      2. Run the compiled file
+         ```sh
+         java Fibonacci
+         ```
+
+- To check Fibonacci click on this: [Fibonacci](https://github.com/SudhirLokade/DSA_Recursion_Programs/blob/main/Fibonacci.java)
+
+# Contribution 
+-  Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests
+-  Feel free to adjust and expand upon this README template to better fit your program and its features. 
+
+# Contact 
+- Feel free to contact me
+    - Email: sudhirlokade111@gmail.com
+    - Github: [.github/SudhirLokade](https://github.com/SudhirLokade)
+    - Linkedin: [Sudhir Lokade](https://www.linkedin.com/in/sudhirlokade)
+ 
+Happy Coding! 
+  
   
  
